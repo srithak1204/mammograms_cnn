@@ -1,5 +1,5 @@
-
-# Mammograms Classification into Malignant and Benign classes using CNNMammograms Classification into Malignant and Benign classes using CNN
+## Mammograms_ CNN
+ Mammograms Classification into Malignant and Benign classes using CNNMammograms Classification into Malignant and Benign classes using CNN
 ## Overview:
 Embarked on a personal exploration to classify mammograms into Malignant and Benign classes using Convolutional Neural Networks (CNN).
 
